@@ -1,0 +1,13 @@
+**/node_modules/
+**/.pio/
+**/.gradle/
+**/build/
+android-app/dist/
+android-app/android/local.properties
+android-app/android/app/src/main/assets/public/
+android-app/android/app/src/main/assets/capacitor.*.json
+*.jks
+*.keystore
+.idea/
+.vscode/
+*.log

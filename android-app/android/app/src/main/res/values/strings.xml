@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">头文字D水杯</string>
+    <string name="title_activity_main">头文字D水杯</string>
+    <string name="package_name">com.initiald.watercup</string>
+    <string name="custom_url_scheme">com.initiald.watercup</string>
+</resources>
