@@ -6,9 +6,9 @@
 
 ## 效果展示
 
-[![水杯实机交互效果](demo/water-cup-demo-poster.jpg)](demo/water-cup-demo-muted.mp4)
+![水杯实机交互效果预览](demo/water-cup-demo-preview.gif)
 
-上方预览为实机交互演示。播放 [静音效果视频](demo/water-cup-demo-muted.mp4)（约 22 秒）。
+上方为实机交互效果预览。查看 [完整演示视频](demo/water-cup-demo.mp4)（约 22 秒，无音轨）。
 
 | 版本 | 源码 | 测试包 | 输入 |
 | --- | --- | --- | --- |
