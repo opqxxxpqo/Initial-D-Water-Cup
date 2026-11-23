@@ -4,6 +4,12 @@
 
 项目包含 ESP32-S3 圆屏固件和 Android 手机 APK。两个版本共用水面物理思路，但使用各自的渲染与运动输入适配；目前视觉效果并非逐像素相同。
 
+## 效果展示
+
+[![水杯实机交互效果](demo/water-cup-demo-poster.jpg)](demo/water-cup-demo-muted.mp4)
+
+上方预览为实机交互演示。播放 [静音效果视频](demo/water-cup-demo-muted.mp4)（约 22 秒）。
+
 | 版本 | 源码 | 测试包 | 输入 |
 | --- | --- | --- | --- |
 | ESP32-S3 圆屏 | [`esp32/`](esp32/) | [`release/Initial-D-Water-Cup-ESP32-test.bin`](release/Initial-D-Water-Cup-ESP32-test.bin) | QMI8658 六轴 IMU、CST816S 触摸 |
